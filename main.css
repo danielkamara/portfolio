@@ -84,6 +84,10 @@ img {
     font-weight: 300;
    
 }
+
+.has-margin-right {
+    margin-right: 5rem;
+}
 /*End Reusable*/
 
 /* Start Header  */
@@ -323,8 +327,30 @@ transform: rotate(-45deg);
     align-items: center;
     justify-content: center;
     margin-bottom: 5rem;
+
 }
+    .portfolio-item:last-child {
+        margin-bottom: 0;
+    }
+
+    .profile-img {
+        width: 50rem;
+        flex: 1;
+    }
+
+    .portfolio-description {
+    
+    }
+
+    .portfolio-descriptiom h6 {
+        font-size: 1.5rem;
+        text-transform: uppercase;
+        font-weight: 300;
+        opacity: 0.3;
+    }
 /*End Portfolio*/
+
+
 
 /*Start timeline*/
 /*End timeline*/
