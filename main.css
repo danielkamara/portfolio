@@ -303,7 +303,7 @@ li {
     width: 10rem;
     height: 10rem;
     border: 3px solid #ffe838;
-    background-color: rgba(255, 255, 255, .3);
+    background-color: rgba(173, 21, 21, 0.3);
     margin-bottom: 2rem;
     display: flex;
     transform: rotate(45deg);
@@ -313,11 +313,18 @@ li {
 color:  #ffe838;
 font-size: 5rem;
 margin: auto;
+transform: rotate(-45deg);
 }
 /*End Services*/
 
-/*Start portfolio*/
-/*End services*/
+/*Start Portfolio*/
+.portfolio-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5rem;
+}
+/*End Portfolio*/
 
 /*Start timeline*/
 /*End timeline*/
