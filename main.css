@@ -250,8 +250,9 @@ li {
     font-weight: 300;
 }
 
-.portfolio-img {
+.profile-img {
     flex: 1;
+    margin-right: 5rem;
 }
 
 .about-details {
