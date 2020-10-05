@@ -611,7 +611,7 @@ font-size: 1.4rem;
     }
 
     .landing-text h6 {
-        font-size: 1.4rem;
+        font-size: 2rem;
     }
 
     .nav-link {
@@ -640,7 +640,7 @@ font-size: 1.4rem;
         order: 2;
     }
 
-    .timeline  {
+    .timeline p {
         font-size: 1.6rem;
     }
 
