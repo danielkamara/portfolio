@@ -359,7 +359,7 @@ transform: rotate(-45deg);
         opacity: 0.3;
     }
 
-    .portfolio-descriptiom .cta {
+     a.cta {
         display: inline-block;
         margin-top: 2.5rem;
         font-size: 1.5rem;
@@ -368,7 +368,7 @@ transform: rotate(-45deg);
         transition: color 650ms;
     }
 
-    .portfolio-descriptiom .cta:hover {
+    a.cta:hover {
         color: #2f67cd;
         
     }
@@ -381,7 +381,7 @@ transform: rotate(-45deg);
 .timeline ul {
 border-left: 4px solid #ffe838;
 border-radius: .8rem;
-background-color: rgba(0,0,0, 0.5);
+background-color: rgba(0,0,0, 0.05);
 margin: 0 auto;
 position: relative;
 padding: 5rem;
