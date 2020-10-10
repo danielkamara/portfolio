@@ -297,7 +297,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2rem;
+    padding: 0.5rem;
 }
 
 .skill h1 {
