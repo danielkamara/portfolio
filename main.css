@@ -217,8 +217,8 @@ li {
 }
 
 .landing-text h6 {
-    font-size: 2rem;
-    font-weight: 300;
+    font-size: 3rem;
+    font-weight: 400;
 }
 
 /*End Header*/
@@ -272,8 +272,8 @@ li {
     color: #38a1f3;
 }
 
-.fa-linkedin-square:hover {
-    color: #38a1f3;
+.fa-linkedin:hover {
+    color: #4267b2;
 }
 
 .fa-github-square:hover {
@@ -336,13 +336,12 @@ transform: rotate(-45deg);
         margin-bottom: 0;
     }
 
-    .profile-img {
-        width: 50rem;
-        flex: 1;
-    }
+ .portfolio-img {
+ flex: 1;
+}
 
     .portfolio-description {
-    
+    flex: 1;
     }
 
 
